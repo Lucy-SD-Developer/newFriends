@@ -1,0 +1,19 @@
+/*   External Style Sheet for countryOfMadagascar.html page for Project2
+     Author:  Lu Lin
+     Date:    2013/02/21
+*/ 
+header, footer, nav, section, article, aside {
+    display: block;
+}
+
+/*---------------------------------------------*/
+
+h1#topheader  {
+                text-align: center;
+}   
+
+
+body  {
+       margin: 1.5em 2em 1.5em 2em; 
+       padding: .5em .8em .5em .8em;
+}

@@ -1,0 +1,14 @@
+/*   External Style Sheet for allArtists.html page for Project1
+     Author:  Lu Lin
+     Date:    2013/02/10
+*/ 
+header, footer {
+    display: block;
+}
+
+/*---------------------------------------------*/
+
+
+p#pend   {
+        text-align: right;
+}

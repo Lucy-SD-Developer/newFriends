@@ -1,0 +1,112 @@
+/*   External Style Sheet for index.html page for Project1
+     Author:  Lu Lin
+     Date:    2013/02/10
+*/ 
+header, footer, nav, section, article, aside {
+    display: block;
+}
+
+/*---------------------------------------------*/
+
+
+body  {
+        background-color: lightgreen;
+        padding: 0em .5em 0em .5em;
+}
+
+
+nav#topNav  {
+            text-align: center;
+            font-size: 1.5em;
+}
+
+
+h1#Jan  {
+        text-align: center;
+        background-color:yellow;
+        font-variant: small-caps;
+        text-shadow: grey 2px 2px 2px;
+}
+
+
+h3#Feb  {
+        text-align: center;
+        text-shadow: grey 2px 2px 2px;
+}
+
+
+header  {
+        margin-bottom: 2em;
+}                                                 
+
+
+img#mainImage  {
+                border: .2em ridge lightblue;
+                border-radius: 3px;
+                box-shadow: grey 3px 4px 2px;
+                float: left;
+                margin-right: 1em;
+                margin-bottom: 1em;
+}
+
+
+h3#comments  {
+            text-align: center;
+}
+
+
+p#deer  {
+        text-align: center;
+}
+
+
+aside#cow  {
+            background-color: lightyellow;
+            float: right;
+            width: 30%;
+            text-align: left;                       
+            margin-left: 1em;
+            margin-bottom: 2em;
+            padding: 1em;
+            border: .2em ridge blue;
+            border-radius: 20px;
+            box-shadow: grey 3px 4px 5px;
+}
+
+
+h3#Mar  {
+        text-align: center;
+        text-shadow: grey 2px 2px 2px;
+}
+
+
+h3#Apr  {
+        text-align: center;
+        text-shadow: grey 2px 2px 2px;
+}
+
+
+h3#May  {
+        text-align: center;
+        text-shadow: grey 2px 2px 2px;
+}
+
+
+nav#endNav  {
+            text-align: center;
+            margin-bottom: 1em;
+}
+
+
+footer  {
+        margin-top: 1em;
+        clear: both;
+}
+
+
+p#footer  {
+          text-align: right;
+}
+
+
+

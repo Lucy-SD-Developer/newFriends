@@ -1,0 +1,28 @@
+/*   External Style Sheet for friendsInfo.html page
+     Author:  Lu Lin
+     Date:    2013/02/10
+*/ 
+header, footer, section, article {
+    display: block;
+}
+
+/*---------------------------------------------*/
+
+body  {
+       background-image: url(../images/back21.gif);
+} 
+ 
+
+header#pageheading  {
+                    text-align: center;
+}
+
+
+img#mainImage  {
+        box-shadow: black 3px 4px 5px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 2em;
+        margin-top: 2em;
+}

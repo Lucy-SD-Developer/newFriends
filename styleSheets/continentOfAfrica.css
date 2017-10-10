@@ -1,0 +1,47 @@
+/*   External Style Sheet for continentOfAfrica.html page for Project2
+     Author:  Lu Lin
+     Date:    2013/02/21
+*/ 
+header, footer, nav, section, article, aside {
+    display: block;
+}
+
+/*---------------------------------------------*/
+
+
+h1#topheader  {
+                text-align: center;
+}   
+
+
+body  {
+       margin: 1.5em 2em 1.5em 2em; 
+       padding: .5em .8em .5em .8em;
+}
+
+
+article#outlineafrica  {
+                        text-align: center;   
+}
+
+
+img#continentmap  {
+                border: .2em ridge yellow;
+                border-radius: 5px;
+                box-shadow: green 3px 4px 5px;
+                margin-bottom: 2em; 
+                margin-top: 2em;
+}
+
+
+nav#endnav  {
+             margin-top: 1em;
+             margin-bottom: 1em;
+             text-align: center;
+}
+
+
+p#pend  {
+        text-align: right;
+        font-size: 0.7em;
+}
